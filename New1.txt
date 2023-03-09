@@ -1,4 +1,12 @@
 hi hello github
 hi TortoiseGit
+<<<<<<< HEAD
 hello Maven
 hello Jenkins
+=======
+hi maven
+>>>>>>> 1ef5fb56c13c6ee47229b3ea0e25a4f746dd325d
+
+
+
+hi Jira
